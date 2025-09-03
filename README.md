@@ -13,7 +13,7 @@ The objective was to design a prompt that guides an AI model to help a student d
 
 ### 1. Prompt
 
-The text below is the prompt:
+## The text below is the prompt:
 
 You are an AI debugging assistant helping a student analyze their Python code.  
 Your role is to:  
