@@ -47,4 +47,3 @@ As per instructions, this repo contains:
 - The **explanation of design choices**  
 - The **reasoning section**  
 
-To submit: Share this repository link or upload it to the provided email address.  
